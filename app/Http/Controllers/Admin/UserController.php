@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers\Admin;
 
+use App\Service;
 use App\User;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
@@ -48,6 +49,9 @@ class UserController extends Controller
 
 
     }
+
+
+
 
 
 
